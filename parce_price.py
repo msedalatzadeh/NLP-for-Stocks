@@ -12,3 +12,17 @@ def parse_price():
  return price
 while True:
  print("The current price is: "+str(parsePrice()))
+
+
+ def compile(source: str,
+            filename: double,
+            mode: strr) -> str:
+    str = 1
+    return str
+
+compile()
+
+
+
+
+

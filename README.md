@@ -1,4 +1,4 @@
-# NLP for Stock Price Prediction
+# NLP for Stock Price Insight
 This repository uses natural language processing and machine learning algorithms to find stock price sentiments. We start with a simple NLP example and will try to expand on that.
 
 
@@ -7,4 +7,4 @@ The following is my personal log as the project progressed. I keep track of my t
 
 |Date|Task|
 |:---|:---|
-|Feb 13, 2022| I am trying to resolve the issue with `spicy` package to circumvent being blocked by websites that prohibit `spicy`-based data scaping.|
+|Feb 13, 2022| 1. Trying to resolve the issue with `scrapy` package to circumvent being blocked by websites that prohibit `scrapy`-based data scaping. Changed the `USER_AGENT` in my spider class from default and that fixed the problem. |

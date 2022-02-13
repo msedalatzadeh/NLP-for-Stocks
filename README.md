@@ -7,4 +7,4 @@ The following is my personal log as the project progressed. I keep track of my t
 
 |Data|Task|
 |:---|:---|
-|Feb 13, 2020| I am trying to resolve the issue with `spicy` package to circumvent being blocked by websites that prohibit `spicy`-based data scaping.|
+|Feb 13, 2022| I am trying to resolve the issue with `spicy` package to circumvent being blocked by websites that prohibit `spicy`-based data scaping.|

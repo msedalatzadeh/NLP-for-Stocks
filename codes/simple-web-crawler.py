@@ -11,7 +11,7 @@ class BrickSetSpider(scrapy.Spider):
         SET_SELECTOR = '.set'
         for brickset in response.css(SET_SELECTOR):
 
-            NAME_SELECTOR = 'h1 ::text'
+            NAME_SELECTOR = 'h1::text'
             yield {
                 'name': brickset.css(NAME_SELECTOR).extract_first()
             }
